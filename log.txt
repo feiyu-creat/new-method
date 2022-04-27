@@ -1,0 +1,9 @@
+##paper with code##
+1.ebm在某个数据集上的精度是要比xgboost好的，但在集料数据集上不如xgboost的精度高可能原因：没有进行参数调优。
+2.FastBDT：用于多元分类的随机梯度提升决策树的速度优化和缓存友好的实现
+3.NGboost：自然梯度提升
+4.Multi-Level Network Embedding with Boosted Low-Rank Matrix Approximation：用于特征工程-未细看
+5.Automatic Gradient Boosting：用R语言实现，自动机器学习使用高性能机器学习工具执行预测建模，无需人工干预。这是通过使机器学习应用程序无参数来实现的，即只提供一个数据集，而完整的模型选择和模型构建过程是通过（通常是元）优化在内部处理的。
+6.Gaussian Process Boosting-我们介绍了一种将提升与高斯过程和混合效应模型相结合的新方法。这允许放宽，首先，高斯过程中平均函数的线性假设和以灵活的非参数方式分组的随机效应模型，其次，大多数提升算法中的独立性假设。
+7.tabnet
+8.auto-gluon
